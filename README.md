@@ -4,8 +4,8 @@
 
 **A free, step-by-step path into DevOps, from someone who made the switch herself.** 💪
 
-![Stars](https://img.shields.io/github/stars/priyankagupta7679/devops-zero-to-hero?style=for-the-badge&color=yellow)
-![Forks](https://img.shields.io/github/forks/priyankagupta7679/devops-zero-to-hero?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/priyankagupta7679/Start-your-journey-for-devops?style=for-the-badge&color=yellow)
+![Forks](https://img.shields.io/github/forks/priyankagupta7679/Start-your-journey-for-devops?style=for-the-badge&color=blue)
 ![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-2ea44f?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
