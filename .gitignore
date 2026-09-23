@@ -1,0 +1,12 @@
+# Secrets & local state — never commit
+.env
+*.env
+!example.env
+*.tfstate
+*.tfstate.*
+.terraform/
+*.pem
+*.key
+kubeconfig*
+*credentials*
+__pycache__/
